@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.70">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.3.70/c706d9a12aa043400daacbb15b61ba662a1eb9a9/kotlin-stdlib-jdk8-1.3.70.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.72">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.72/8032138f12c0180bc4e51fe139d4c52b46db6109/kotlin-stdlib-1.3.72.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.72">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.72/6ca8bee3d88957eaaaef077c41c908c9940492d8/kotlin-stdlib-common-1.3.72.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.70">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.70/95aee922bc2a0fff3b7bfa1b6503ff0afe38264a/kotlin-stdlib-jdk7-1.3.70.jar" />
+  </library>
+  <library name="Gradle: org.javassist:javassist:3.26.0-GA">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.26.0-GA/bb2890849968d8d8311ffba8c37b0ce16ce284dc/javassist-3.26.0-GA.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.3.72">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.72/86613e1a669a701b0c660bfd2af4f82a7ae11fca/kotlin-reflect-1.3.72.jar" />
+  </library>
+  <library name="Gradle: jakarta.xml.bind:jakarta.xml.bind-api:2.3.2">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/2.3.2/8d49996a4338670764d7ca4b85a1c4ccf7fe665d/jakarta.xml.bind-api-2.3.2.jar" />
+  </library>
+  <library name="Gradle: org.codehaus.woodstox:stax2-api:4.2.1">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/org.codehaus.woodstox/stax2-api/4.2.1/a3f7325c52240418c2ba257b103c3c550e140c83/stax2-api-4.2.1.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.woodstox:woodstox-core:6.2.1">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/com.fasterxml.woodstox/woodstox-core/6.2.1/1600925b1ec7c7a3403c8f068ad62feead13132f/woodstox-core-6.2.1.jar" />
+  </library>
+  <library name="Gradle: jakarta.activation:jakarta.activation-api:1.2.1">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/1.2.1/562a587face36ec7eff2db7f2fc95425c6602bc1/jakarta.activation-api-1.2.1.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.10.5">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.10.5/f438b5eb66d15cbffca1497408b4cb379af9b068/jackson-module-jaxb-annotations-2.10.5.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.10.5">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-kotlin/2.10.5/2209ee2c705141735505ab83fcf2c1a3380ccff9/jackson-module-kotlin-2.10.5.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.10.5">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.10.5/52414bbb464a2836c12649169930bed0c41e31a7/jackson-databind-2.10.5.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.10.5">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-xml/2.10.5/eb44e5de7ba75ef1b6e2c8caa09b0d5e153cb24f/jackson-dataformat-xml-2.10.5.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.10.5">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.10.5/33298de8da86f92f8ccd61ced214d3b16f8c531e/jackson-annotations-2.10.5.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.core:jackson-core:2.10.5">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.10.5/db2ba27938de7f2d478a97d6abcdaa17cbbd3cea/jackson-core-2.10.5.jar" />
+  </library>
+  <library name="Gradle: org.reflections:reflections:0.9.12">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/org.reflections/reflections/0.9.12/1c9d44c563eebe9b8a3afebd29ed5c4646db800c/reflections-0.9.12.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains:annotations:13.0">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+  </library>
+  <library name="Gradle: org.mindrot:jbcrypt:0.4">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/org.mindrot/jbcrypt/0.4/af7e61017f73abb18ac4e036954f9f28c6366c07/jbcrypt-0.4.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.5">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.5/b245208f2b844c02dbb506312d4859bde93bce8d/kotlinx-coroutines-core-1.3.5.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.3.5">
+    <archive path="C:/Users/DEFAULTUSER/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-jdk8/1.3.5/effd1e29a3e50de975b2396319eaca40dfc96dc/kotlinx-coroutines-jdk8-1.3.5.jar" />
+  </library>
+  <library name="Python 3.9 interpreter library" />
+</eclipse-userlibraries>
+
